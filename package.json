@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack --config webpack.common.cjs --watch",
     "server": "nodemon src/server/server.ts",
-    "test": "npx cypress open"
+    "test": "npx cypress open"  
   },
   "author": "Tom Bellew",
   "license": "ISC",
